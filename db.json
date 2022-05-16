@@ -1,0 +1,18 @@
+{
+    "breeds": [
+      {
+        "id": "HUSKY",
+        "covername": "Husky",
+        "rate": 0.0045660000
+      },
+      {
+        "id": "LAB",
+        "covername": "Labrador",
+        "rate": 0.06250
+      },{
+        "id": "OTHER",
+        "covername": "Other cover",
+        "rate": 99
+      }
+    ]
+  }
