@@ -1,18 +1,56 @@
 {
     "breeds": [
-      {
-        "id": "HUSKY",
-        "covername": "Husky",
-        "rate": 0.0045660000
-      },
-      {
-        "id": "LAB",
-        "covername": "Labrador",
-        "rate": 0.06250
-      },{
-        "id": "OTHER",
-        "covername": "Other cover",
-        "rate": 99
-      }
-    ]
-  }
+        {
+             "id" : "BORDER_COLLIE",
+            "breed": "Border Collie",
+            "factor": 1.494
+        },
+        {
+       
+            "id" : "BULLDOG",
+            "breed": "Bulldog",
+            "factor": 1.1
+        },
+        {
+        
+            "id" : "BULL_TERRIER",
+            "breed": " Bull Terrier",
+            "factor": 3
+       },
+       {
+        "id" : "GERMAN_SHEPHERD",
+        "breed": "German Shepherd",
+        "factor": 1.3
+   },
+   {
+    "id" : "GOLDEN_LABRADOR",
+    "breed": "Golden Lab",
+    "factor": 1.004
+},
+{
+    "id" : "HUSKY",
+    "breed": "Husky",
+    "factor": 1.83
+},
+{
+    "id" : "JAPANESE_SPITZ",
+    "breed": "Japanese Spitz",
+    "factor": 2.3
+},
+{
+    "id" : "LARGE_CROSSBREED",
+    "breed": "Large Crossbreed",
+    "factor": 2.38
+},
+{
+    "id" : "SHIBA_INU",
+    "breed": "Shiba",
+    "factor": 2.993
+},
+{
+    "id" : "STAFFORDSHIRE_BULL_TERRIER",
+    "breed": "Staff",
+    "factor": 4
+}
+]
+}
